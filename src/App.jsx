@@ -1,6 +1,6 @@
 import {RouterProvider, createBrowserRouter} from "react-router-dom";
 import "./index.css";
-import AppLayout from "./layouts/app-layout";
+import AppLayout from "./layouts/AppLayout";
 import Home from "./pages/Home";
 import GifProvider from "./context/gif-context";
 import SearchPage from "./pages/Search";
