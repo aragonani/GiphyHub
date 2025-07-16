@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import GifProvider from "./context/gif-context";
 import SearchPage from "./pages/Search";
 import Category from "./pages/Category";
-import GifPage from "./pages/single-gif";
+import GifPage from "./pages/GifPage";
 import Favorites from "./pages/Favorites";
 import { Toaster } from "react-hot-toast";
 
